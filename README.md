@@ -1,1 +1,1 @@
-https://tugas-2-zwetazanasasmira-smkrantask.vercel.app/
+https://tugas-1-zwetazanasasmira-smkbrantas.vercel.app/
